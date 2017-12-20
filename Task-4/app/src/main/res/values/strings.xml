@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Task-4</string>
+    <string name="movieNamePlaceholder">Movie Name</string>
+    <string name="leadActorPlaceholder">Lead Actor</string>
+    <string name="btText">Go!</string>
+    <string name="error">Unexpected Error</string>
+    <string name="required">All Fields Are Required!</string>
+</resources>
